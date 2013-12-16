@@ -6,7 +6,7 @@ The git repository contains the R-package of Timo van Balen for Assignment 7.
 
 Click here to directly download the package: [ass7pack.tar.gz][]
 
-[ass7pack.tar.gz]: https://github.com/GekkeJack/Assignment7/blob/master/ass7pack_0.2.tar.gz
+[ass7pack.tar.gz]: https://github.com/GekkeJack/Assignment7/blob/master/ass7pack_0.2.tar.gz?raw=true
 
 
 The repository also contains a directory with the orginal unpacked source files for the package (_ass7pack_).
