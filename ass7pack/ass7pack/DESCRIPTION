@@ -1,0 +1,9 @@
+Package: ass7pack
+Type: Package
+Title: Assignment 7 Package for ERIM Programming Course
+Version: 0.2
+Date: 2013-12-15
+Author: T.H. van Balen
+Maintainer: T.H. van Balen <374663tb@eur.nl>
+Description: The package was constructed as part of the 7th assignment for the ERIM Programming Course. The package contains 1 substantial and 4 superficial functions.
+License: GPL (>=2)
